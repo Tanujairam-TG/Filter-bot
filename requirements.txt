@@ -2,7 +2,7 @@ pyrogram==1.2.20
 tgcrypto==1.2.2
 pymongo[srv]==3.12.3
 motor==2.5.1
-marshmallow==3.14.1
+marshmallow>=3.14.0,<=3.14.1
 umongo==3.0.1
 telegraph==1.4.1
 googletrans==3.1.0a0
